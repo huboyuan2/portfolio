@@ -17,16 +17,17 @@
   - [Download Link(PC)](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/DOD.zip)
   - [Trailer Video](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/DODvideo.mp4)
   - [Introduction](game%20sample/Delicacy%20of%20Dungeon/readme.md)
+    - ![fight](game%20sample/Delicacy%20of%20Dungeon/dodfight.gif)
 - [**Paraland**(WebGL mobile game)](game%20sample/Paraland(WebGL%20mobile%20game))
   - [Source Code Git Link](https://github.com/huboyuan2/Paraland-source-code.git)
   - [WebGL Demo Link（Playable in the browser）](https://huboyuan2.github.io/paralanddemo/)
   - [Trailer Video](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/paraland.mp4)
   - [Introduction](game%20sample/Paraland(WebGL%20mobile%20game)/Readme.md)
+    - ![rotate camera](game%20sample/Paraland(WebGL%20mobile%20game)/Movie_002.gif)
 
 ## Houdini sample
 - [Houdini terrain](houdini%20sample)
   - ![Terrain Image](houdini%20sample/Houdini%20terrain%20effect.png)
-  - ![Terrain graph](houdini%20sample/houdini%20terrfain%20graph.png)
 
 ## shader sample
 - [node based shader graph(height fog effect)](shadersample/node%20based%20shader%20graph)
