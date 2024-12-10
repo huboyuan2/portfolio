@@ -13,7 +13,7 @@
 
 ## game sample
 - [**Delicacy of Dungeon**](game%20sample/Delicacy%20of%20Dungeon)
-  - [Download Link(PC)](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/Delicacy of Dungeon.zip)
+  - [Download Link(PC)](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/DOD.zip)
   - [Trailer Video](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/DODvideo.mp4)
   - [Introduction](game%20sample/Delicacy%20of%20Dungeon/readme.md)
 - [**Paraland**(WebGL mobile game)](game%20sample/Paraland(WebGL%20mobile%20game))
