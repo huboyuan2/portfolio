@@ -101,6 +101,3 @@ Blue Orc has died
 Battle over. Red team wins!
 
 [ Red | Troll(??)  ] ... [ | Blue ]
-
-選擇文字的快速操作。如果不需要，請點擊以停用。
-知道了
