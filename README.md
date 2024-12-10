@@ -6,6 +6,7 @@
 - [Unity Editor tool sample](C%23%20code%20sample/Unity%20Editor%20tool%20sample)
   - [BlockData.cs](C%23%20code%20sample/Unity%20Editor%20tool%20sample/BlockData.cs)
   - [LevelGenerator_WaveFunctionCollapseAlgorithm.cs](C%23%20code%20sample/Unity%20Editor%20tool%20sample/LevelGenerator_WaveFunctionCollapseAlgorithm.cs)
+  - ![Demo GIF](C%23%20code%20sample/Unity%20Editor%20tool%20sample/Level%20Generater%20Effect.gif)
 
 ## C++ code sample
 - [console game requirement document.txt](C++%20code%20sample/console%20game%20requirement%20document.txt)
@@ -24,7 +25,11 @@
 
 ## Houdini sample
 - [Houdini terrain](houdini%20sample)
+  - ![Terrain Image](houdini%20sample/Houdini%20terrain%20effect.png)
+  - ![Terrain graph](houdini%20sample/houdini%20terrfain%20graph.png)
 
 ## shader sample
-- [node based shader graph](shadersample/node%20based%20shader%20graph)
-- [shadercode](shadersample/shadercode)
+- [node based shader graph(height fog effect)](shadersample/node%20based%20shader%20graph)
+  - ![Shader Graph Image](shadersample/node%20based%20shader%20graph/HeightFogEffect.jpg)
+- [shader code(Kajia-Kay anisotropic highlight effect)](shadersample/shadercode)
+  - ![Shader Code Image](shadersample/shadercode/Kajia-Kay%20anisotropic%20highlight.png)
