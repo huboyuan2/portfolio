@@ -20,7 +20,7 @@ This game was developed in the **Unity2019.4 ** environment.
  [Game Demo Video](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/DODvideo.mp4)
 
 ## Game Download Link(PC)
- [PC Game Download Link](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/Delicacy of Dungeon.zip)
+ [PC Game Download Link](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/DOD.zip)
 
 ## Game Design
 >**Delicacy of Dungeon** is a dungeon crawling action game with a cooking theme. Players take on the role of a Norse Valkyrie who has lost her divinity and serves as the head chef in a restaurant called Hvergelmir located in Niflheim. Her daily job is to hunt monsters in the dungeon directly below the restaurant, cleverly using weapons and traps to turn the monsters into delicious dishes, and then serve the dishes to the restaurant's patrons.
