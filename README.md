@@ -22,7 +22,7 @@
   - [Source Code Git Link](https://github.com/huboyuan2/Paraland-source-code.git)
   - [WebGL Demo Link（Playable in the browser）](https://huboyuan2.github.io/paralanddemo/)
   - [Trailer Video](https://a.unity.cn/client_api/v1/buckets/24b1eaa0-ff82-4c2e-8cb8-34692c4d352c/content/paraland.mp4)
-  - [Introduction](game%20sample/Paraland(WebGL%20mobile%20game)/Readme.md)
+  - [Introduction](game%20sample/Paraland(WebGL%20mobile%20game)/README.md)
     - ![rotate camera](game%20sample/Paraland(WebGL%20mobile%20game)/Movie_002.gif)
 
 ## Houdini sample
