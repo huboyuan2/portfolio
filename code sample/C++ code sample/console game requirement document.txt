@@ -1,0 +1,103 @@
+=======================================================================================================================
+Description
+=======================================================================================================================
+Create a C++ turn-based console text game in which two teams of monsters battle. Submisson must consist of one .cpp file.
+
+Game Play
+- Each team lines up single file facing the other.
+- Only the lead monsters take action each turn.
+- Each turn the lead monsters automatically attack each other and use any abilities.
+- Checks for death occur at the end of the turn, after all other actions.
+- When the lead monster dies, the next monster in line takes their place.
+- The last team remaining is the winner.
+- Text output shows each action monsters took.
+  - All relevant numbers, such as damage and regeneration, must be output.
+- Text output shows the composition of each team at the beginning of the battle, the beginning of each turn, and the end of a battle.
+  - Each monster on the team should output their name and health.
+
+Monsters
+- There are three types of monsters: goblins, trolls, and orcs.
+  - Goblins
+    - Small and nimble, goblins can attack multiple times per turn and deal great damage, but are weak and have low health.
+  - Trolls
+    - Large with a strong attack and high health that regenerates.
+  - Orcs
+    - Armed with a spiked shield that both blocks and reflects damage, orcs have average health and a weak attack.
+
+Monster Attributes
+- All monster attributes are whole numbers in the range 0 - 100.
+
+- All monsters have the following attributes.
+  - Health
+    When health reaches zero the monster dies.
+  - Damage
+    How much damage is dealt by each attack.
+
+- Specific monsters have these attributes.
+  - Goblin
+    - Number of attacks
+	  How many times each turn they attack.
+  - Troll
+    - Regeneration
+	  A fixed amount of health that is regenerated every turn until they are at their starting health.
+  - Orc
+    - Damage blocked
+	  A fixed amount by which to reduce damage from all attacks.
+    - Damage reflected
+	  A fixed amount of damage to be dealt to the attacker when hit.
+
+Balancing
+- All attributes must be balanced such that
+  - one goblin defeats one troll, but loses to two trolls.
+  - one troll defeats one orc, but loses to two orcs.
+  - one orc defeats one goblin, but loses to two goblins.
+
+Game Scenarios
+- Your game must run the following 7 battles in order.
+  - One goblin vs one troll.
+  - One goblin vs two trolls.
+  - One troll vs one orc.
+  - One troll vs two orc.
+  - One orc vs one goblin.
+  - One orc vs two goblin.
+  - 4 random monsters vs 4 random monsters.
+
+Text Output
+- Examples of of how the text output should look is shown below.
+  - In this case the teams are named Red and Blue but you may name them as you choose.
+  - Specific numbers have been replaced with question marks.
+  - This example shows the first turn of a battle
+
+=======================================================================================================================
+
+Battle Starting
+
+[ Red | Goblin(??)  ] ... [ Troll(??) | Blue ]
+
+-----------------------------------------------------------------------------------------------------------------------
+Turn 1
+
+[ Red | Goblin(??)  ] ... [ Troll(??) | Blue ]
+
+Red Goblin attacks Blue Troll for ? damage
+Red Goblin attacks Blue Troll for ? damage
+Red Goblin attacks Blue Troll for ? damage
+Red Goblin attacks Blue Troll for ? damage
+Blue Troll attacks Red Goblin for ? damage
+Blue Troll regenerates ? health
+
+  - This example shows the final turn of a battle
+
+-----------------------------------------------------------------------------------------------------------------------
+Turn ??
+
+[ Red | Troll(??)  ] ... [ Orc(??) | Blue ]
+
+Red Troll attacks Blue Orc for ? damage, dealing ? damage, and receiving ? reflected damage
+Blue Orc attacks Red Troll for ? damage
+Red Troll regenerates ? health
+Blue Orc has died
+
+Battle over. Red team wins!
+
+[ Red | Troll(??)  ] ... [ | Blue ]

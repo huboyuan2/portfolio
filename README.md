@@ -9,8 +9,9 @@
   - ![Demo GIF](C%23%20code%20sample/Unity%20Editor%20tool%20sample/Level%20Generater%20Effect.gif)
 
 ## C++ code sample
-- [console game requirement document.txt](C++%20code%20sample/console%20game%20requirement%20document.txt)
-- [TurnBasedConsoleGame.cpp](C++%20code%20sample/TurnBasedConsoleGame.cpp)
+- [text game requirement document.txt](C++%20code%20sample/console%20game%20requirement%20document.txt)
+- [TurnBasedTextGame.cpp](C++%20code%20sample/TurnBasedConsoleGame.cpp)
+- [ObjectAllocator.cpp(a highly-effective Tool based on link list, used to allocate and deallocate fixed-sized memory blocks, it can replace **new** or **delete** function in C++)](C++%20code%20sample/ObjectAllocator/ObjectAllocator.cpp)
 
 ## game sample
 - [**Delicacy of Dungeon**](game%20sample/Delicacy%20of%20Dungeon)
