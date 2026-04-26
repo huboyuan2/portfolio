@@ -48,17 +48,17 @@ Soft Shadow(based on Moment Shadow Map)
 
 Physically Based Rendering(based on BRDF+GGX, IBL specular, Spherical Harmonic Lighting)
 
-![Physically Based Rendering](OpenGlRender\pbr.png)
+![Physically Based Rendering](OpenGlRender/pbr.png)
 
-<img src="C:\Users\21222\Desktop\Apply\boyuanhu portfolio\portfolio\OpenGlRender\IBL.png" alt="IBL" style="zoom: 22%;" /><img src="C:\Users\21222\Desktop\Apply\boyuanhu portfolio\portfolio\OpenGlRender\SH.png" alt="SH" style="zoom: 44%;" />
+<img src="OpenGlRender/IBL.png" alt="IBL" style="zoom: 22%;" /><img src="OpenGlRender/SH.png" alt="SH" style="zoom: 44%;" />
 
 Alchemy Ambient Occolusion
 
-![AlchemyAO](OpenGlRender\AlchemyAO.png)
+![AlchemyAO](OpenGlRender/AlchemyAO.png)
 
 Screen Space Reflection
 
-![ssr](OpenGlRender\ssr.png)
+![ssr](OpenGlRender/ssr.png)
 
 
 
