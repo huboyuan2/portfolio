@@ -44,7 +44,7 @@ dynamic perfect reflection capture(based on dual-parabolic map)
 
 Soft Shadow(based on Moment Shadow Map)
 
-<img src="OpenGlRender/softshadow.png" alt="Terrain Image" style="zoom: 50%;" /><img src="C:\Users\21222\Desktop\Apply\boyuanhu portfolio\portfolio\OpenGlRender\blurshadow.png" alt="blurshadow" style="zoom:50%;" />
+<img src="OpenGlRender/softshadow.png" alt="Terrain Image" style="zoom: 50%;" /><img src="OpenGlRender/blurshadow.png" alt="blurshadow" style="zoom:50%;" />
 
 Physically Based Rendering(based on BRDF+GGX, IBL specular, Spherical Harmonic Lighting)
 
